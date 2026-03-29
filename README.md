@@ -1,8 +1,8 @@
 # playwright-api-typescript
 
-> **GitHub repo description:** Production-grade REST API test framework — TypeScript, Playwright Test, Zod schema validation, ESLint, Prettier, Allure reporting targeting reqres.in.
+REST API test framework — TypeScript, Playwright Test, Zod schema validation, ESLint, Prettier, Allure reporting targeting reqres.in.
 
-A fully typed REST API test framework built on Playwright Test runner, demonstrating enterprise API testing patterns: typed API client, Zod schema validation, structured request/response logging, Allure reporting with payload attachments, and deterministic test data.
+REST API test framework built on Playwright Test runner, demonstrating enterprise API testing patterns: typed API client, Zod schema validation, structured request/response logging, Allure reporting with payload attachments, and deterministic test data.
 
 ## Tech Stack
 
